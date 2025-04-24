@@ -1,0 +1,5 @@
+
+M
+	tree_json@*>[{"id":"node2id","name":"node2","parentId":"root","child":[]}]
+R
+tree_json_test@*>[{"id":"node2id","name":"node2","parentId":"root","child":[]}]
